@@ -1,0 +1,12 @@
+﻿ID = 0
+FirstName = p
+LastName = p
+BroiGosti = 4
+PhoneNumber = 657457457
+DateReservation = 2.7.2020 г. 00:00:00 ч.
+ID = 0
+FirstName = j
+LastName = d
+BroiGosti = 3
+PhoneNumber = 3
+DateReservation = 5.7.2020 г. 00:00:00 ч.

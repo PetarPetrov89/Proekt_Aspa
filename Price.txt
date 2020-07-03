@@ -1,0 +1,8 @@
+Type = Room with two beds
+Price = 50
+ID = 1
+
+Type = Apartment
+Price = 70
+ID = 2
+
